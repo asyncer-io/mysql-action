@@ -13,19 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mirromutth/mysql-action.git"
+    "url": "git+https://github.com/jchrys/mysql-action.git"
   },
   "keywords": [
     "MySQL",
     "Action",
     "Github-Actions"
   ],
-  "author": "Mirro Mutth",
+  "author": "Nelson K",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mirromutth/mysql-action/issues"
+    "url": "https://github.com/jchrys/mysql-action/issues"
   },
-  "homepage": "https://github.com/mirromutth/mysql-action#readme",
+  "homepage": "https://github.com/jchrys/mysql-action#readme",
   "devDependencies": {
     "@types/chai": "^4.2.3",
     "@types/lodash": "^4.14.142",

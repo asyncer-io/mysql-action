@@ -1,6 +1,6 @@
 name: 'Setup MySQL'
 description: 'Setup a MySQL database'
-author: 'Mirro Mutth'
+author: 'Nelson K'
 branding:
   icon: 'database'
   color: 'orange'
